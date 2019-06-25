@@ -1,0 +1,7 @@
+# Grand Theft Auto V
+SocialClubHelper.exe
+uninstallRGSCRedistributable.exe
+GTA5.exe
+GTAVLanguageSelect.exe
+GTAVLauncher.exe
+Social-Club-Setup.exe
