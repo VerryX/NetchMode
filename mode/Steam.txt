@@ -1,0 +1,22 @@
+# Steam
+html5app_steam.exe
+steamwebhelper.exe
+gldriverquery.exe
+gldriverquery64.exe
+secure_desktop_capture.exe
+steamservice.exe
+steam_monitor.exe
+x64launcher.exe
+x86launcher.exe
+GameOverlayUI.exe
+Steam.exe
+DXSETUP.exe
+vcredist_x64.exe
+vcredist_x86.exe
+vc_redist.x64.exe
+vc_redist.x86.exe
+steamerrorreporter.exe
+steamerrorreporter64.exe
+streaming_client.exe
+uninstall.exe
+WriteMiniDump.exe

@@ -1,0 +1,9 @@
+# PlayerUnknown's Battlegrounds
+BroCrashReporter.exe
+BEService_x64.exe
+EasyAntiCheat_Setup.exe
+ExecPubg.exe
+iigw_server.exe
+TslGame.exe
+TslGame_BE.exe
+TslGame_EAC.exe

@@ -1,0 +1,3 @@
+# Counter-Strike: Global Offensive
+csgo.exe
+steamwebhelper.exe

@@ -1,0 +1,15 @@
+# Tom Clancy's Rainbow Six Siege (with Uplay)
+UbisoftGameLauncher.exe
+UbisoftGameLauncher64.exe
+Uninstall.exe
+upc.exe
+Uplay.exe
+UplayCrashReporter.exe
+UplayService.exe
+UplayWebCore.exe
+BEService_x64.exe
+RainbowSix.exe
+RainbowSix_BE.exe
+Cleaner.exe
+FirewallInstall.exe
+UplayInstaller.exe

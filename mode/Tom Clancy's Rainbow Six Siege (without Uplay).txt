@@ -1,0 +1,7 @@
+# Tom Clancy's Rainbow Six Siege (without Uplay)
+BEService_x64.exe
+RainbowSix.exe
+RainbowSix_BE.exe
+Cleaner.exe
+FirewallInstall.exe
+UplayInstaller.exe

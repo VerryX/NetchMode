@@ -1,0 +1,9 @@
+# Fortnite
+CrashReportClient.exe
+UnrealCEFSubProcess.exe
+BEService_x64.exe
+EasyAntiCheat_Setup.exe
+FortniteClient-Win64-Shipping.exe
+FortniteClient-Win64-Shipping_BE.exe
+FortniteClient-Win64-Shipping_EAC.exe
+FortniteLauncher.exe

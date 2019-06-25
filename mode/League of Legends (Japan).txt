@@ -1,0 +1,9 @@
+# League of Legends (Japan)
+BsSndRpt.exe
+League of Legends.exe
+LeagueCrashHandler.exe
+jpatch.exe
+LeagueClient.exe
+LeagueClientUx.exe
+LeagueClientUxRender.exe
+Uninstall League of Legends.exe
